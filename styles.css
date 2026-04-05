@@ -1,1 +1,29 @@
 /* Your CSS code here. */
+* {
+	font-family: Arial, sans-serif;
+}
+.header1 {
+	background-color: #e5e5e5;
+	padding: 20px;
+}
+
+.navbar {
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+
+.main_sec {
+	background-color: #f5f5f5;
+	padding: 20px;
+}
+
+.sidebar {
+	background-color: lightgray;
+	padding: 20px;
+}
+
+.footer1 {
+	background-color: #e5e5e5;
+	padding: 20px;
+}
